@@ -18,6 +18,8 @@ Serie: AED-1286SC2C
 
 ## INDICE
 
+[Investigación1](ParadigmaOO).
+
 
 
 
