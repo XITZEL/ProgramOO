@@ -25,5 +25,5 @@ Consiste en que una clase secundaria puede recibir los     atributos y métodos 
 ### Historia del Lenguaje de Modelado Unificado
 El UML fue desarrollado por Grady Booch, Ivar Jacobson y Jim Rumbaugh,como el resultado de la unificación de la técnica de modelado de objetos e ingeniería de software orientada a objetos, la primera versión se presentó en 1997 a Object Management Group. Está diseñado para modelar sistemas y representar las distintas relaciones entre sus componentes. Se utiliza en sistemas de software complejos(estructura y comportamiento). Los UML son muy utilizados dado que muestran visualmente el comportamiento y estructura de un sistema. Herramientas para el modelado UML  GitMind, Ludidchart, Gliffy, MagicDraw,etc. IBM y Apple son empresas que utilizan la herramienta UML para modelar sus sistemas o procesos. 
 ### Propuesta de una maquina que venda distintos articulos
-
+Propones que nuestra maquina expendedora maneje 2 tipos de productos galletas y sabritas, tendra un limite de 15 productos por tipo de producto, la maquina expendedora tiene 3 funciones elegir, entregar y cobrar con un limite de 1 y  1 po venta de producto.
 ### Diagrama de clases del sistema propuesto
