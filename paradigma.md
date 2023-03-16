@@ -21,7 +21,7 @@ El encapsulamiento es una propiedad donde resguardamos las características en p
 ### ¿Por qué es importante? 
 Para evitar que los atributos tomen valores inconscientes y proteger así los datos, asegurándonos que solo podrán ser accedidos por medio de métodos de la clase.   
 ### Concepto de Herencia
-	Consiste en que una clase secundaria puede recibir los     atributos y métodos de una clase principal.	
+Consiste en que una clase secundaria puede recibir los     atributos y métodos de una clase principal.	
 ### Historia del Lenguaje de Modelado Unificado
 El UML fue desarrollado por Grady Booch, Ivar Jacobson y Jim Rumbaugh,como el resultado de la unificación de la técnica de modelado de objetos e ingeniería de software orientada a objetos, la primera versión se presentó en 1997 a Object Management Group. Está diseñado para modelar sistemas y representar las distintas relaciones entre sus componentes. Se utiliza en sistemas de software complejos(estructura y comportamiento). Los UML son muy utilizados dado que muestran visualmente el comportamiento y estructura de un sistema. Herramientas para el modelado UML  GitMind, Ludidchart, Gliffy, MagicDraw,etc. IBM y Apple son empresas que utilizan la herramienta UML para modelar sus sistemas o procesos. 
 ### Propuesta de una maquina que venda distintos articulos
